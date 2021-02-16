@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mechaniquake
 - 👀 I’m interested in learning to programme and contribute to the open-source community
-- 🌱 I’m currently learning Networking and Python
-- ::microscope:: I’m looking to collaborate on IOT projects or training programs
+- :snake: I’m currently learning Networking and Python
+- :microscope: I’m looking to collaborate on IOT projects or training programs
 - 📫 Comment
 
 <!---
